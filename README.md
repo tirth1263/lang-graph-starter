@@ -4,6 +4,12 @@ A minimal, production-minded starter for building stateful graph-based LLM appli
 
 This starter is powered by Nebius Token Factory through `ChatOpenAI`, using Nebius' OpenAI-compatible API endpoint and the `Qwen/Qwen3-30B-A3B` model.
 
+## Live Website
+
+Explore the published project website here:
+
+[https://tirth1263.github.io/lang-graph-starter/](https://tirth1263.github.io/lang-graph-starter/)
+
 ## Why This Project Exists
 
 LangGraph is excellent when you want an agent that can do more than answer once and disappear. This starter keeps the moving parts intentionally small so you can see the core idea clearly:
@@ -130,7 +136,11 @@ pytest
 
 ## Deployment
 
-The static website lives in `docs/` and is ready for GitHub Pages or any static host.
+The static website lives in `docs/` and is published with GitHub Pages:
+
+[https://tirth1263.github.io/lang-graph-starter/](https://tirth1263.github.io/lang-graph-starter/)
+
+It can also be deployed to any static host.
 
 GitHub Pages setup:
 
